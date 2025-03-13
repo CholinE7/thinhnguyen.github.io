@@ -67,6 +67,14 @@ h2 {
     display: inline-block;
     margin-left: 5px;
 }
+h3{
+    font-size: 70%;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #000000;
+    display: inline-block;
+    margin-left: 5px;
+}
 
 .personal-header p {
     font-size: 80%;
